@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.yamcherr.twa",
-        "sha256_cert_fingerprints": ["9C:9B:2C:B8:CD:A4:DE:05:9A:B8:4F:77:3F:17:09:FF:D5:02:7E:0A:99:AE:6B:A2:99:C2:0D:90:CC:32:75:A3"]
+        "sha256_cert_fingerprints": ["D5:94:90:A6:2E:09:62:96:31:63:A8:4C:D7:70:DD:5F:F5:ED:C2:B8:23:58:00:C8:DF:D9:E7:61:67:55:B8:C0"]
       }
     }]
